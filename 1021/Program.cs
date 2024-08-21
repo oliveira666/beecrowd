@@ -9,7 +9,7 @@ class URI {
         {
             input = double.Parse(Console.ReadLine());
         } 
-        while (input < 0 && input > 1000000.00);
+        while (input < 0 || input > 1000000.00);
 
         double[] dinheiro = {100.00,50.00,20.00, 10.00, 5.00, 2.00, 1.00, 0.50, 0.25, 0.10, 0.05, 0.01};
         double qtd = 0;
@@ -39,7 +39,7 @@ class URI {
             }
 
             qtd = input / dinheiro[i];
-            input = input % dinheiro[i];
+            input = Math.Round(input % dinheiro[i], 2);
 
             Console.WriteLine("{0} {1}(s) de R$ {2}", (int)qtd, tipoMoeda.ToLower(), dinheiro[i].ToString("F2"));
        }
