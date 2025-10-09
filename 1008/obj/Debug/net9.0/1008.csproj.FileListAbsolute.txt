@@ -1,0 +1,15 @@
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.AssemblyInfoInputs.cache
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.AssemblyInfo.cs
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.csproj.CoreCompileInputs.cache
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.sourcelink.json
+C:\Users\ihagod\Downloads\beecrowd\1008\bin\Debug\net9.0\1008.exe
+C:\Users\ihagod\Downloads\beecrowd\1008\bin\Debug\net9.0\1008.deps.json
+C:\Users\ihagod\Downloads\beecrowd\1008\bin\Debug\net9.0\1008.runtimeconfig.json
+C:\Users\ihagod\Downloads\beecrowd\1008\bin\Debug\net9.0\1008.dll
+C:\Users\ihagod\Downloads\beecrowd\1008\bin\Debug\net9.0\1008.pdb
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.dll
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\refint\1008.dll
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.pdb
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\1008.genruntimeconfig.cache
+C:\Users\ihagod\Downloads\beecrowd\1008\obj\Debug\net9.0\ref\1008.dll
