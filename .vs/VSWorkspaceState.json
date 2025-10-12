@@ -1,5 +1,6 @@
 {
   "ExpandedNodes": [
+    "",
     "\\1000",
     "\\1010",
     "\\1012",
@@ -7,5 +8,6 @@
     "\\1014",
     "\\1015"
   ],
+  "SelectedNode": "\\1015\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
