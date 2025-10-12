@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
-    "",
     "\\1000",
-    "\\1014"
+    "\\1010",
+    "\\1012",
+    "\\1013",
+    "\\1014",
+    "\\1015"
   ],
-  "SelectedNode": "\\1014\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
